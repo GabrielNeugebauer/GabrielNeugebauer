@@ -7,17 +7,6 @@ Hi there! I'm Gabriel Neugebauer 👋
 - 🤔 Estou procurando colaborar com projetos menores para melhorar meus conhecimentos e ajudar a comunidade 
 - 💬 Pergunte-me sobre Python. Vamos aprender juntos!
 - ⚡ Curiosidade: Apaixonado por segurança da informação, gosto de brincar com servidores de CTF nas horas vagas.
-  <div>
-<a href="https://instagram.com/gabrielneugebauer" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:gabrielneugebauer@hotmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/GabrielNeugebauer" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
-
-<div>
-<a href="https://github.com/GabrielNeugebauer">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielNeugebauer&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielNeugebauer&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
 <!---
 GabrielNeugebauer/GabrielNeugebauer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -43,6 +32,11 @@ You can click the Preview link to take a look at your changes.
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=css3&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&labelColor=0D1117)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A6299D&height=100&section=footer"/>
+<div>
+<a href="https://instagram.com/gabrielneugebauer" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:gabrielneugebauer@hotmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/GabrielNeugebauer" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
