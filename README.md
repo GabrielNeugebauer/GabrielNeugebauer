@@ -11,8 +11,8 @@
 - 💬 Pergunte-me sobre Python. Vamos aprender juntos!
 - ⚡ Curiosidade: Apaixonado por segurança da informação, gosto de brincar com servidores de CTF nas horas vagas.
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Scriptaron&show_icons=true&count_private=true&hide_border=true&title_color=9C53A6&icon_color=3DF2E0&text_color=BFB85A&bg_color=0d1117" alt="Gabriel Neugebauer github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scriptaron&layout=compact&hide_border=true&title_color=9C53A6&text_color=BFB85A&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GabrielNeugebauer&show_icons=true&count_private=true&hide_border=true&title_color=9C53A6&icon_color=3DF2E0&text_color=BFB85A&bg_color=0d1117" alt="Gabriel Neugebauer github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielNeugebauer&layout=compact&hide_border=true&title_color=9C53A6&text_color=BFB85A&bg_color=0d1117" />
 </div>
 
 ### Main skills:
