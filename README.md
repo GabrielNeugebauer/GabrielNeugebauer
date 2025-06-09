@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A6299D&height=100&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=BFB85A&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Gabriel+Neugebauer;I'm+17+years+old;I'm+from+Brazil;Graduating+in+IT+Technician;Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=BFB85A&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Gabriel+Neugebauer;I'm+18+years+old;I'm+from+Brazil;Graduating+in+IT+Technician;Welcome!+:%29)](https://git.io/typing-svg)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gabrielneugebauer&bg_color=0d1117&color=bfb852&line=af30bf&point=f2e635&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 - 🌐 Trabalhei como Suporte técnico na Santalucia Alimentos LTDA.(Blue Ville) 2022-2024
